@@ -1,11 +1,11 @@
 import {Component} from '@angular/core';
 
 @Component({
-  selector: 'example-component',
-  templateUrl: 'example-component.html',
-  styleUrls: ['example-component.css'],
+  selector: 'app-component',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.scss'],
 })
-export class ExampleComponent {}
+export class AppComponent {}
 
 
 /**  Copyright 2019 Google LLC. All Rights Reserved.
